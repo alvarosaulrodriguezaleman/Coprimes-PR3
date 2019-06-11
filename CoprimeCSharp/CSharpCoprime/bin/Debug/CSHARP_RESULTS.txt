@@ -1,0 +1,3 @@
+
+Test d Process time: 0
+Test numbers5.txt Process time: 0,001

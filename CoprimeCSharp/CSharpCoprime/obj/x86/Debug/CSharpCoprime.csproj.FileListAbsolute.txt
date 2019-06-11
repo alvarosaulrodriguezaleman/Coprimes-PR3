@@ -1,0 +1,6 @@
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/bin/Debug/CSharpCoprime.exe
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/bin/Debug/CSharpCoprime.pdb
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/obj/x86/Debug/CSharpCoprime.csprojAssemblyReference.cache
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/obj/x86/Debug/CSharpCoprime.csproj.CoreCompileInputs.cache
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/obj/x86/Debug/CSharpCoprime.exe
+/Users/Nahuel/Projects/Csharp/CSharpCoprime/obj/x86/Debug/CSharpCoprime.pdb

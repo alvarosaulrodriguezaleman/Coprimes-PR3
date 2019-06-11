@@ -1,0 +1,8 @@
+Test numbers05.txt Process time: 0.0
+Test numbers10.txt Process time: 0.004
+Test numbers15.txt Process time: 0.012
+Test numbers20.txt Process time: 0.164
+Test numbers22.txt Process time: 0.59
+Test numbers24.txt Process time: 2.516
+Test numbers25.txt Process time: 5.047
+Test numbers26.txt Process time: 10.375
